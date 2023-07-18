@@ -1,6 +1,8 @@
 # Hosting-a-Dynamic-Website-using-AWS
 Hosting-Static-and-Dynamic-Websites-using-AWS: Scalable project using Amplify, Lambda, API Gateway, DynamoDB & IAM. Builds static/dynamic websites with cost-effective solutions for front-end & back-end needs
 
+(please refer to th documentation completely to avoid any mistakes and for better clarification on the names of files used)
+
 Key Features and Components:
 
 1.AWS Amplify: Amplify is used to set up and deploy the front-end of the web application. It simplifies the process of hosting and managing static web content, such as HTML, CSS, and JavaScript. Amplify offers features like continuous deployment, scalability, and caching, ensuring efficient delivery of content to users.
